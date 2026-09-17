@@ -22,13 +22,11 @@ Establish a reusable, governed path from fragmented FHIR/HL7 clinical data to lo
 FHIR/HL7 interoperability; Azure API Management; Azure Event Hubs; Patient Context Fabric; Azure AI Search; model/inference abstraction; context-aware retrieval; adaptive context assembly; semantic caching; token optimization; Azure Content Safety; Presidio; Azure AI Evaluation / LLM-as-a-Judge; AKS; Bicep; Azure DevOps; OpenTelemetry; Azure Monitor; Application Insights.
 
 ### Artifact set
-- `README.md` / `README.txt`
-- `PNG/` — 35 rendered architecture diagrams
-- `SVG/` — 35 editable vector diagrams
-- `DOT/` — 35 editable Graphviz sources
-- `PDF/` — 35 standalone diagram PDFs
-- `Jyotirmoy_Bardhan_Longitudinal_Clinical_Intelligence_Care_Coordination_ARCHITECTURE_CASE_STUDY.pdf` — 66-page case study
-
+- `README.md`
+- `Diagrams/` — 35 rendered architecture diagrams
+- `longitudinal-clinical-intelligence-care-coordination.pdf`
+- `longitudinal-clinical-intelligence-care-coordination.mp4`
+- 
 ### Architecture views
 The diagram suite is intentionally deeper than a technology inventory. Each view exposes a system-of-interest boundary, architecture planes, concrete service seams, directional contracts, trust boundaries, runtime evidence and clinical action authority.
 
