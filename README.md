@@ -26,7 +26,7 @@ FHIR/HL7 interoperability; Azure API Management; Azure Event Hubs; Patient Conte
 - `Diagrams/` — 35 rendered architecture diagrams
 - `longitudinal-clinical-intelligence-care-coordination.pdf`
 - `longitudinal-clinical-intelligence-care-coordination.mp4`
-- 
+  
 ### Architecture views
 The diagram suite is intentionally deeper than a technology inventory. Each view exposes a system-of-interest boundary, architecture planes, concrete service seams, directional contracts, trust boundaries, runtime evidence and clinical action authority.
 
